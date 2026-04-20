@@ -1,6 +1,6 @@
 window.WIDGETS_CONFIG = {
   features: {
-    scheme:true,
+    scheme:false,
     bank:true,
     kyc:true,
     rate:true,
